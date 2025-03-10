@@ -19,7 +19,7 @@ function ProductDetails() {
   if (!product) return <Loading />;
 
   return (
-    <div className="max-w-6xl mx-auto p-8">
+    <div className="w-full mx-auto p-8">
       <div className="flex flex-col md:flex-row gap-12">
         {/* Image Section */}
         <div className="md:w-1/2">
