@@ -111,18 +111,19 @@ bash
 ## Project Structure
 
 src/
-├── components/
-│ ├── Cart.jsx
-│ ├── Layout.jsx
-│ ├── Loading.jsx
-│ └── ProductCard.jsx
-├── context/
-│ └── CartContext.jsx
-├── hooks/
-│ ├── useCart.js
-│ ├── useCategory.js
-│ └── useLocalStorage.js
-├── pages/
-│ ├── Home.jsx
-│ └── Checkout.jsx
-└── App.jsx
+
+- ├── components/
+- │ ├── Cart.jsx
+- │ ├── Layout.jsx
+- │ ├── Loading.jsx
+- │ └── ProductCard.jsx
+- ├── context/
+- │ └── CartContext.jsx
+- ├── hooks/
+- │ ├── useCart.js
+- │ ├── useCategory.js
+- │ └── useLocalStorage.js
+- ├── pages/
+- │ ├── Home.jsx
+- │ └── Checkout.jsx
+- └── App.jsx
