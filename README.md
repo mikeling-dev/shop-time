@@ -95,12 +95,18 @@ A modern, responsive e-commerce application built with React and Tailwind CSS, f
 ## Getting Started
 
 bash
-Clone the repository
-git clone [https://github.com/mikeling-dev/shop-time.git]
-Install dependencies
-npm install
-Start the development server
-npm run dev
+
+### Clone the repository
+
+- git clone [https://github.com/mikeling-dev/shop-time.git]
+
+### Install dependencies
+
+- npm install
+
+### Start the development server
+
+- npm run dev
 
 ## Project Structure
 
